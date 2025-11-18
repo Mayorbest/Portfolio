@@ -1,0 +1,12 @@
+{
+  "name": "wild-horizon-1st",
+  "version": "1.0.0",
+  "description": "a dataset of the planet's most interesting places",
+  "license": "ISC",
+  "author": "Mayorbest",
+  "type": "module",
+  "main": "node_basics.js",
+  "scripts": {
+    "start": "node_basics.js"
+  }
+}
